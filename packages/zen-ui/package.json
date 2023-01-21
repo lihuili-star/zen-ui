@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zen-ui/foo": "workspace:^1.0.0",
-    "@zen-ui/xxx": "workspace:^1.0.0"
+    "@zen-ui/foo": "workspace:^1.0.0"
   }
 }
