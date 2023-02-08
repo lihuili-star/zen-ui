@@ -19,7 +19,7 @@ import {
   unref,
   watch,
   withCtx
-} from "./chunk-NJMH7NSX.js";
+} from "./chunk-DJZ47UOU.js";
 
 // ../node_modules/.pnpm/registry.npmmirror.com+@vitepress-demo-preview+component@2.1.0_vitepress@1.0.0-alpha.40/node_modules/@vitepress-demo-preview/component/dist/preview-component.js
 var $ = (t, o) => {

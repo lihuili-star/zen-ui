@@ -1,5 +1,5 @@
 {
-  "name": "@zen-ui/zen-ui",
+  "name": "@zen-ui/input",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@zen-ui/foo": "workspace:^1.0.0",
-    "@zen-ui/input": "workspace:^1.0.0"
+    "@zen-ui/utils": "workspace:^1.0.0"
   }
 }
