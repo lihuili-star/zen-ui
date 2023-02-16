@@ -1,10 +1,12 @@
 import { App } from 'vue'
 import Foo from '@zen-ui/foo'
+import Rate from '@zen-ui/rate'
 // import component end
 import '../scss/index.scss'
 
 const components = [
-  Foo
+  Foo,
+  Rate
 ] // components
 
 // 全局动态添加组件
